@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @gottssunfire
-- 👀 I’m interested in data transmission and networks
-- 🌱 I’m currently learning JunosOS
-- 💞️ I’m looking to collaborate on neat things
+- 👀 I'm a server admin with a short attention span.  My bash is alright, while I'm prepping for the LPIC I've also started learning SQL.
 - 📫 How to reach me, email gottssunfire967@gmail.com
 
 <!---
